@@ -6,5 +6,5 @@
 
 Your project is live at:
 
-**https://smarttravelcurator.netlify.app/](https://smarttravelcurator.netlify.app/)**
+**[Smart Travel Curator](https://smarttravelcurator.netlify.app/)**
 
