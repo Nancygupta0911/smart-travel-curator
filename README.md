@@ -25,22 +25,12 @@ It aims to make Indian travel **smarter, personalized, and culturally aware**.
 
 ---
 
-## 🖼️ Screenshots
-
-(Add your project screenshots here)
-
-| Homepage | City Explorer | Cost Calculator |
-|-----------|----------------|----------------|
-| ![Home](link-to-image1) | ![Explore](link-to-image2) | ![Cost](link-to-image3) |
-
----
-
 ## 🧰 Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | React.js / HTML / CSS / JavaScript |
-| **Backend** | Node.js / Express (if applicable) |
+| **Backend** | Node.js / Express |
 | **Database** | MongoDB / Firebase / PostgreSQL |
 | **APIs** | Google Maps / Travel APIs / Custom Dataset |
 | **Deployment** | Netlify |
